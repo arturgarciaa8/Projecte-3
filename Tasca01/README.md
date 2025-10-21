@@ -66,10 +66,4 @@ A partir de l’eina seleccionada (Bitwarden, KeePassX, etc.), creeu una **guia 
 - Com fer una còpia de seguretat (`.kdbx` o exportació Bitwarden).
 - Recomanacions: emmagatzemar la còpia **en una clau USB xifrada** o **al núvol de forma segura**.
 
----
-
-## 📁 Lliurament
-
-Aquesta és una **tasca individual**.  
-Dins el repositori del projecte-3, creeu la carpeta:
 
