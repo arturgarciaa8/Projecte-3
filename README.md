@@ -85,7 +85,4 @@ EverPia és un gran lloc on començar: **cada projecte és una història, cada e
 
 > Qualsevol lliurable pot requerir **documentació Markdown** (README/guies) i **evidències** (captures/logs).
 
----
-
-## 📂 Estructura recomanada del repo
 
